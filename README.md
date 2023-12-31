@@ -1,6 +1,6 @@
 # Weather App
 
-This repository contains a simple weather web application built with Node.js and Express. The app allows users to input a city name, and it retrieves real-time weather information from the OpenWeatherMap API.
+The Weather App is a simple web application built using Node.js and Express, designed to provide real-time weather information. Users can input a city name, and the application fetches data from the OpenWeatherMap API to display details such as temperature, weather description, and an icon indicating the current conditions. The app offers a user-friendly interface, scalability, and customization options.
 
 ## Features
 
@@ -19,4 +19,4 @@ Feel free to explore, modify, and enhance this application to suit your needs.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE]() file for details.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.md) file for details.
