@@ -15,11 +15,11 @@ The Weather App is a simple web application built using Node.js and Express, des
 3. Obtain an API key from `OpenWeatherMap` and replace the placeholder apiKey in the code with your actual API key.
 4. Run the application using `node app.js` and navigate to `http://localhost:3000` in your web browser.
 
+Feel free to explore, modify, and enhance this application to suit your needs.
+
 ## Website
 
 Check out the live version of Weather Application [here](https://weather-application-bttu.onrender.com)
- 
-Feel free to explore, modify, and enhance this application to suit your needs.
 
 ## License
 
